@@ -6,6 +6,7 @@ __pycache__/
 .venv/
 venv/
 env/
+.bongampesa/
 
 # Distribution / packaging
 .Python
